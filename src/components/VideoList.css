@@ -1,0 +1,8 @@
+.centrado2{
+    border: 1px solid white;
+    display: flex;
+    margin-left: 10%;
+    margin-top: 5%;
+    width: 80%;
+    flex-wrap: wrap;
+}
