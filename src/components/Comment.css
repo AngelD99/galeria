@@ -1,0 +1,10 @@
+.comment{
+    margin-top: 20px;
+    margin-left: 15px;
+    padding: 5px;
+    width: 650px;
+    height: fit-content;
+    min-height: 50px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
