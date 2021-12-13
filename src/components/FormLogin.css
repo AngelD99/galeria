@@ -1,0 +1,49 @@
+.form-login{
+    margin-top: 13%;
+    width: 40%;
+    height: 45%;
+    color: rgb(8, 8, 8);
+    background-color: rgb(201, 216, 255);
+    border: 1px solid;
+    border-radius: 10px;   
+    text-align: center;
+}
+
+.form-login2{
+    margin-top: 13%;
+    width: 500px;
+    height: 300px;
+    color: rgb(8, 8, 8);
+    background-color: rgb(201, 216, 255);
+    border: 1px solid;
+    border-radius: 10px;   
+    text-align: center;
+}
+
+.form-login>h3{
+    margin-top: 2%;
+    color: rgb(0, 0, 0);
+}
+
+.form-login>input{
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(31, 34, 49);
+    color: white;
+}
+
+.form-login>button{
+    margin-top: 20px;
+    width: 200px;
+    height: 40px;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: rgb(32, 37, 65);
+    color: white;
+}
+
+.form-login>button:hover{
+   background-color: rgb(75, 45, 131);
+}
